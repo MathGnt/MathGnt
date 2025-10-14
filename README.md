@@ -1,4 +1,4 @@
-# Mathis Gaignet
+# Hi, I'm Mathis 👋
 
 iOS Developer focused on Clean Architecture, Swift Concurrency, and building apps that people actually want to use.
 
