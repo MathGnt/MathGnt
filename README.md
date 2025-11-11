@@ -1,35 +1,27 @@
-# Hi, I'm Mathis 👋
+# Step into my SwiftUI universe
 
-iOS Developer focused on Swift Concurrency and good architecture.
+Hey, I'm Mathis, an iOS developer who loves Swift and SwiftUI. I follow the latest updates, watch WWDC every year, and enjoy writing clean, modern code. I also fell in love with Swift Concurrency 🛠
 
-## What I Build
+## What I've built
 
-**Albedo** — Satellite tracking app on the App Store
-Real-time orbital mechanics, custom Swift Charts for magnitude analysis, WeatherKit integration, and a custom Swift Package for shadow computations. Built with Clean Architecture, actors for thread-safe caching, and parallel API calls using TaskGroups.
+**[Albedo](https://apps.apple.com/fr/app/albedo/id6744074239?l=en-GB)** - A satellite tracking app that shows upcoming passes of major satellites based on your location. Native interface following Apple's design standards, with complete astrodynamics implementation (SGP4, TLE, ECI/ECEF), real-time ground tracks, observation statistics powered by WeatherKit, and a custom SPM for orbital mechanics calculations (Earth shadow transitions, apparent magnitude, albedo).
 
-**BarTinder** — Open-source cocktail discovery app
-Tinder-like ingredient swiping with Apple Intelligence integration using Foundation Models for AI-powered recipe generation. Features SwiftData with custom abstraction layers, full Swift Testing coverage, and Clean Architecture throughout.
+**[BarTinder](https://github.com/MathGnt/BarTinder)** - An open-source cocktail discovery, creation, and management app. Originally designed as a learning resource for SwiftUI, it demonstrates core concepts: views, lists, refactoring, gesture animations (including Tinder-style swipe). BarTinder leverages Foundation Models (Apple Intelligence) to bring ideas to life, uses SwiftData for persistence, and is fully tested with SwiftTesting through XcodeCloud.
 
+For screenshots and code samples, check out the [portfolio](https://portfolio-mathis-three.vercel.app/).
 
-## Technical Approach
+## Technical approach
 
 I write Swift with a focus on:
-- Clean Architecture, MVVM, or MVC with proper separation of concerns
-- Swift Concurrency (actors, TaskGroups, structured concurrency)
-- Comprehensive testing with Swift Testing
-- SwiftUI for modern, declarative interfaces
-- Custom Swift Packages when needed
 
-I've written technical articles on Swift 6.2 Concurrency and SwiftUI internals that received 400+ engagements on Medium.
+- **Idiomatic SwiftUI**: modern, declarative, and readable interfaces
+- **Clean Architecture** & MVVM
+- **Swift 6 Concurrency** and beyond (6.2+)
 
-## Background
+## Articles
 
-Former audio engineer who transitioned to iOS development. I spent three years working with sound systems, live events, and technical troubleshooting before diving deep into iOS development. That background taught me to work under pressure, adapt quickly to new technical environments, and solve problems systematically.
+I also write articles to help the community. Here are some of them:
 
-## Currently
-
-Learning Swedish and preparing to relocate to Stockholm. Open to iOS developer roles in Sweden and across Europe.
-
-## Links
-
-[Medium](https://medium.com/@mathisgnt) • [LinkedIn](https://linkedin.com/in/mathisgnt) • [Portfolio](https://portfolio-mathis-three.vercel.app/)
+- [Mastering Swift 6.2 Concurrency: A Complete Tutorial](https://medium.com/@matgnt/mastering-swift-6-2-concurrency-a-complete-tutorial-99a939b0f53b)
+- [SwiftUI Redraw System In Depth: Attributes, Recomputation, Diffing](https://medium.com/@matgnt/swiftui-redraw-system-in-depth-attributes-recomputation-diffing-and-observation-66b469fdcada)
+- [The Art of SwiftData in 2025: From Scattered Pieces to a Masterpiece](https://medium.com/@matgnt/the-art-of-swiftdata-in-2025-from-scattered-pieces-to-a-masterpiece-1fd0cefd8d87)
