@@ -23,5 +23,5 @@ I write Swift with a focus on:
 I also write articles to help the community. Here are some of them:
 
 - [Mastering Swift 6.2 Concurrency: A Complete Tutorial](https://medium.com/@matgnt/mastering-swift-6-2-concurrency-a-complete-tutorial-99a939b0f53b)
-- [SwiftUI Redraw System In Depth: Attributes, Recomputation, Diffing](https://medium.com/@matgnt/swiftui-redraw-system-in-depth-attributes-recomputation-diffing-and-observation-66b469fdcada) (featured in [Peter Friese's newsletter](https://x.com/peterfriese/status/1990336621603070141?s=20) — Staff Developer Advocate, Google & Firebase)
+- [SwiftUI Redraw System In Depth: Attributes, Recomputation, Diffing](https://medium.com/@matgnt/swiftui-redraw-system-in-depth-attributes-recomputation-diffing-and-observation-66b469fdcada) (featured in [Peter Friese's newsletter](https://x.com/peterfriese/status/1990336621603070141?s=20) — Staff Developer Advocate, Google Firebase)
 - [The Art of SwiftData in 2025: From Scattered Pieces to a Masterpiece](https://medium.com/@matgnt/the-art-of-swiftdata-in-2025-from-scattered-pieces-to-a-masterpiece-1fd0cefd8d87)
